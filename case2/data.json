@@ -1,0 +1,71 @@
+{
+  "Products": [
+    {
+      "name": "Product1",
+      "categories": [
+        "CategoryId1",
+        "CategoryId2"
+      ]
+    },
+    {
+      "name": "Product2",
+      "categories": [
+        "CategoryId3"
+      ]
+    },
+    {
+      "name": "Product3",
+      "categories": [
+        "CategoryId1",
+        "CategoryId2",
+        "CategoryId3"
+      ]
+    },
+    {
+      "name": "Product4",
+      "categories": [
+        "CategoryId4",
+        "CategoryId5"
+      ]
+    },
+    {
+      "name": "Product5",
+      "categories": [
+        "CategoryId1"
+      ]
+    },
+    {
+      "name": "Product6",
+      "categories": [
+      ]
+    },
+    {
+      "name": "Product7",
+      "categories": [
+      ]
+    }
+  ],
+
+  "Categories":[
+    {
+      "id": "CategoryId1",
+      "name": "CategoryName1"
+    },
+    {
+      "id": "CategoryId2",
+      "name": "CategoryName2"
+    },
+    {
+      "id": "CategoryId3",
+      "name": "CategoryName3"
+    },
+    {
+      "id": "CategoryId4",
+      "name": "CategoryName4"
+    },
+    {
+      "id": "CategoryId5",
+      "name": "CategoryName5"
+    }
+  ]
+}
